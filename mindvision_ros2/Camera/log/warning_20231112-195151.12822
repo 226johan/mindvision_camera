@@ -1,0 +1,5 @@
+Log file created at: 2023/11/12 19:51:51
+Running on machine: johan
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1112 19:51:51.267386 12838 MVCameraBase.cpp:99] Device:(name:MV-SUA133GC#0 sn:043070120063)Lost
+W1112 19:51:51.645581 12838 MVCameraBase.cpp:119] Device:(name:MV-SUA133GC#0 sn:043070120063)ReConnected, TolCount:1
